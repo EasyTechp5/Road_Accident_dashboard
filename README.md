@@ -36,5 +36,26 @@ Raw Dataset Given                  | Cleaned Dataset Ready for Analysis
 - Public
 - Media
 ## Insight and Analysis
-Below are the  Insight derived from the analysis
+Below are few Insight derived from the analysis
+![](KPI_pivotTable.PNG)
+Monthly Trend                      | Casualties by Road type
+|----------------------------------|------------------------------------|
+![](Monthly_Trend.PNG)             | ![](CausaultiesByRoadType.PNG)
 
+## Visualization and Dashboard
+Here is the Dashboard to be presented to the stakeholders for necessary action to be taken
+![Road Accident Dashboard](Road_Accident.PNG)
+
+## Recommendation
+- Improve road infrastructure
+- Enhance road safety education
+- Monitor weather and road conditions
+- Strengthen enforcement of traffic regulations
+- Conduct regular data analysis: Continuously analyze road accident data to identify emerging trends, monitor the effectiveness of implemented safety measures, and make data-driven decisions. Regular data analysis allows for proactive adjustments and improvements in road safety strategies.
+
+
+![Thank you](Drive_safely.jfif)
+
+Thank you.
+
+click [here](https://www.linkedin.com/in/israelafolabieasytech) to follow me on linkedin
