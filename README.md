@@ -22,6 +22,11 @@
 - I created pivot chart to answer each question
 - I created an executive slicer to enable stakeholder filter each region
 - I transformed raw dataset from Excel files and designed interactive reports and dashboards to complete the task.
+
+
+Raw Dataset Given                  | Cleaned Dataset Ready for Analysis
+|----------------------------------|------------------------------------|
+![](Raw_Dataset.PNG)               |       ![](Cleaned_Dataset.PNG)
 ## Stakeholders
 - Ministry of Transport
 - Road Transport Department
@@ -32,3 +37,4 @@
 - Media
 ## Insight and Analysis
 Below are the  Insight derived from the analysis
+
